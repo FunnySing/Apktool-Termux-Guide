@@ -27,3 +27,7 @@ For example: ``apktool b -a ~/prebuilt/linux/aapt2_64``
 📌 Tips: You can write a bash script to make the whole process easy for you.
 
 Credit: [Hytht](https://www.reddit.com/user/Hytht/)
+
+
+## License
+Apache License, Version 2.0
