@@ -22,7 +22,7 @@
 19. Done!
 
  **Now you can run Apktool by specifying path to aapt2 qemu-user wrapper:**
-For example: ``apktool b -a ~/prebuilt/linux/aapt2_64``
+For example: ``apktool b --aapt ~/prebuilt/linux/aapt2_64``
 
 📌 Tips: You can write a bash script to make the whole process easy for you.
 
